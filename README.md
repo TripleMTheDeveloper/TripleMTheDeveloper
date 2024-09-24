@@ -1,10 +1,10 @@
 # Hi, I'm Marcus Mdlalo 👋
 
-## Front-End Developer | Problem Solver | UI Enthusiast
+## Front-End Developer | Problem Solver | Gaming and Football Enthusiast
 
-I'm a passionate front-end developer focused on crafting responsive, user-friendly, and visually appealing web applications. With a strong foundation in JavaScript, React.js, and UI/UX principles, I love turning ideas into reality by building seamless user interfaces that deliver great experiences.
+I'm a passionate front-end developer focused on crafting responsive, user-friendly, and visually appealing web applications. With a strong foundation in JavaScript & React.js. I love turning ideas into reality by building seamless user interfaces that deliver great experiences. I am looking for work as a front-end developer & currently have just under a year of experience.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Technical Skills
 
@@ -18,15 +18,19 @@ I'm a passionate front-end developer focused on crafting responsive, user-friend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 About Me
 
-- 🔥 Passionate about creating user-friendly web applications
-- 🛠️ Specializing in React.js, JavaScript, and responsive design
-- 💬 Always excited to collaborate on interesting front-end projects
+-  Passionate about creating user-friendly web applications
+-  Specializing in React.js, JavaScript, and responsive design
+-  Always excited to collaborate on interesting front-end projects
+-  I am good at presenting and articulating my ideas
+-  Always eager to learn and grow
+-  hard worker
+-  punctual and professional
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 How to Reach Me
 
