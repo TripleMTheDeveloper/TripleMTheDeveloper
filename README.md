@@ -1,4 +1,4 @@
-# Hi, I'm Marc Black 👋
+# Hi, I'm Marcus Mdlalo 👋
 
 ## Front-End Developer | Problem Solver | UI Enthusiast
 
