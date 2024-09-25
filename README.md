@@ -24,11 +24,11 @@ I'm a passionate front-end developer focused on crafting responsive, user-friend
 
 -  Passionate about creating user-friendly web applications
 -  Specializing in React.js, JavaScript, and responsive design
--  Always excited to collaborate on interesting front-end projects
 -  I am good at presenting and articulating my ideas
 -  Always eager to learn and grow
--  hard worker
--  punctual and professional
+-  Hard worker
+-  Punctual and professional
+-  Attentive to detail
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
